@@ -5,8 +5,20 @@
   "description": "See your plan, spending, and debt math on the accounts you already linked. A record change waits for your confirm. Nothing moves money.",
   "author": {
     "name": "ClarityTrack, Inc.",
-    "url": "https://www.claritytrack.ai"
+    "url": "https://www.claritytrack.ai",
+    "email": "support@claritytrack.ai"
   },
   "license": "LicenseRef-Proprietary",
-  "privacyPolicyUrl": "https://www.claritytrack.ai/privacy"
+  "privacyPolicyUrl": "https://www.claritytrack.ai/privacy",
+  "homepage": "https://www.claritytrack.ai",
+  "repository": "https://github.com/rickhancock-droid/claritytrack-claude-plugin",
+  "documentationUrl": "https://www.claritytrack.ai/connect",
+  "supportUrl": "https://www.claritytrack.ai/about",
+  "termsOfServiceUrl": "https://www.claritytrack.ai/terms",
+  "keywords": [
+    "finance",
+    "budget",
+    "plan",
+    "spending"
+  ]
 }
