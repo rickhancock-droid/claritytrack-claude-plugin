@@ -1,5 +1,5 @@
 ---
-name: money_story
+name: money-story
 description: Tell a short plain-English story of this month: what happened, what changed, and the one useful next step.
 ---
 

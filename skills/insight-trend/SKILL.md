@@ -1,5 +1,5 @@
 ---
-name: insight_trend
+name: insight-trend
 description: Review what Clarity has been flagging in recent insights and whether the picture is improving or worsening.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: owner_money
+name: owner-money
 description: Business cash on hand, what is committed, what is left, and owner's pay. Personal cash is not included.
 ---
 

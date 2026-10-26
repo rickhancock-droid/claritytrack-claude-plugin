@@ -1,5 +1,5 @@
 ---
-name: spending_by_category
+name: spending-by-category
 description: Chart spending by category for a date window, largest first.
 ---
 

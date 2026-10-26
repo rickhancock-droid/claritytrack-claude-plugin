@@ -1,5 +1,5 @@
 ---
-name: plan_check
+name: plan-check
 description: Score payoff and savings goals as ahead, on track, or behind, and say how fresh the balances are.
 ---
 

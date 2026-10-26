@@ -1,5 +1,5 @@
 ---
-name: budget_check
+name: budget-check
 description: Compare this month's spending against budgets and flag anything over or near its cap.
 ---
 

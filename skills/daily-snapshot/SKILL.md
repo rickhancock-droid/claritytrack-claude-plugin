@@ -1,5 +1,5 @@
 ---
-name: daily_snapshot
+name: daily-snapshot
 description: Show what changed across connected accounts since the previous daily snapshot.
 ---
 

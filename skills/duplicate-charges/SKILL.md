@@ -1,5 +1,5 @@
 ---
-name: duplicate_charges
+name: duplicate-charges
 description: List open charges that look like the same charge on two accounts.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: subscription_follow_through
+name: subscription-follow-through
 description: Whether a cancelled subscription's charge actually stopped, or a charge posted after the cancellation.
 ---
 

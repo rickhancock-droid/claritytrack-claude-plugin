@@ -1,5 +1,5 @@
 ---
-name: spending_pace
+name: spending-pace
 description: Say whether this month's spending is ahead of the plan, with last month beside it.
 ---
 

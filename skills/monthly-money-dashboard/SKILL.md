@@ -1,5 +1,5 @@
 ---
-name: monthly_money_dashboard
+name: monthly-money-dashboard
 description: Build a one-page dashboard of this month's money: net worth, spending by category, budget status, and what Clarity has been flagging.
 ---
 
