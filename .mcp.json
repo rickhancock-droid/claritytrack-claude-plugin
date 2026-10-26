@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claritytrack": {
+      "type": "http",
+      "url": "https://www.claritytrack.ai/mcp"
+    }
+  }
+}
